@@ -1,0 +1,3 @@
+Dataset Description:
+
+A set of images consisting of a training set of 60000 examples and a test set of 10000 examples. Each example is a 28x28 black and white image associated with a label from 10 classes.
